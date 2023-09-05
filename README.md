@@ -1,5 +1,5 @@
 # WebAPIBookManagement
 
-This is a test using Entity Framework to create an API
+**This is a test using Entity Framework to create an API**
 
-The frontend part is here: https://github.com/robsonalves1/WebApplicationBookStoreManagement
+Please follow this link to see the front-end project: https://github.com/robsonalves1/WebApplicationBookStoreManagement
